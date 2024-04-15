@@ -30,7 +30,7 @@ Pour 5 doigts :
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Consignes%20d'utilisation/Exemples/5.jpg)
 
-En effet, la position des doigts est importantes car c'est avec ces positions que l'IA a été entrainée. Il est donc possible d'avoir plusieurs façon de montrer un chiffre avec ses doigts, mais dans notre cas, une seule façon permettra au modèle fonctionner.
+En effet, la position des doigts est importante car c'est avec ces positions que l'IA a été entrainée. Il est donc possible d'avoir plusieurs façon de montrer un chiffre avec ses doigts, mais dans notre cas, une seule façon permettra au modèle de fonctionner.
 
 Exemple :
 
