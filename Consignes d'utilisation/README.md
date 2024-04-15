@@ -13,15 +13,19 @@ Veuillez utiliser ces positions pour les doigts
 Pour 1 doigt :
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Consignes%20d'utilisation/Exemples/1.jpg)
+
 Pour 2 doigts :
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Consignes%20d'utilisation/Exemples/2.jpg)
+
 Pour 3 doigts :
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Consignes%20d'utilisation/Exemples/3.jpg)
+
 Pour 4 doigts :
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Consignes%20d'utilisation/Exemples/4.jpg)
+
 Pour 5 doigts :
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Consignes%20d'utilisation/Exemples/5.jpg)
