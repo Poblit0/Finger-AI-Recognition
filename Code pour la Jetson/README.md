@@ -1,4 +1,4 @@
-## Télécharger le répertoire [notebooks](https://github.com/Poblit0/Finger-AI-Recognition/tree/main/Code%20pour%20la%20Jetson/notebooks) et placer le dans votre Jupyter Lab, ensuite suivez les instructions présentes dans le Jupyter Notebook [5_fingers.ipynb](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Code%20pour%20la%20Jetson/notebooks/5_fingers.ipynb)
+## Télécharger le répertoire [notebooks](https://github.com/Poblit0/Finger-AI-Recognition/tree/main/Code%20pour%20la%20Jetson/notebooks) et placer le dans votre Jupyter Lab, ensuite suivez les instructions présentes dans le Jupyter Notebook [5_fingers.ipynb](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Code%20pour%20la%20Jetson/notebooks/5_fingers%20.ipynb)
 
 ## ATTENTION : les photos sont déjà réaliser par conséquent il est simplement nécessaire de clicker sur 
 
