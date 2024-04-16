@@ -1,5 +1,7 @@
 ## Télécharger le répertoire [notebooks](https://github.com/Poblit0/Finger-AI-Recognition/tree/main/Code%20pour%20la%20Jetson/notebooks) et placer le dans votre Jupyter Lab, ensuite suivez les instructions présentes dans le Jupyter Notebook
 
+## ATTENTION : les photos sont déjà réaliser par conséquent il est simplement nécessaire de clicker sur 
+
 ## La programmation de la Jetson Nano permet :
 
 - d'entrainer une IA pour reconnaitre le nombre de doigts
