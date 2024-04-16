@@ -1,4 +1,4 @@
-## Téléchargez le répertoire [notebooks](https://github.com/Poblit0/Finger-AI-Recognition/tree/main/Code%20pour%20la%20Jetson/notebooks) et placez-le dans votre Jupyter Lab, ensuite suivez les instructions présentes dans le Jupyter Notebook [5_fingers.ipynb](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Code%20pour%20la%20Jetson/notebooks/5_fingers%20.ipynb)
+## Téléchargez le répertoire [notebooks](https://github.com/Poblit0/Finger-AI-Recognition/tree/main/Code%20pour%20la%20Jetson/notebooks) et placez-le dans votre Jupyter Lab, ensuite suivez les instructions présentes dans le Jupyter Notebook [5_fingers.ipynb](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Code%20pour%20la%20Jetson/notebooks/5_fingers.ipynb)
 
 ## ATTENTION : Il est recommandé de choisir un nombre d'epochs entre 5 et 10 pour un fonctionnement correct  (Voir photo ci-dessous)
 ## De plus, les photos sont déjà réalisées, par conséquent il est simplement nécessaire de cliquer sur "train"
