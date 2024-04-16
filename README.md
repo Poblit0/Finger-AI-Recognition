@@ -6,7 +6,7 @@ Ce projet a pour objectif d'utiliser une intelligence artificielle pour compter 
 
 Pour cela, une Jetson Nano sera utilisée pour le traitement de l'image, ainsi qu'une Arduino Uno pour le rendu de réponse à l'utilisateur.
 
-Une communication est instaurée entre les 2 cartes, et le retour à l'utilisateur s'effectue grâce à un servomoteur qui pointe le nombre de doigts levés.
+Une communication I2C est instaurée entre les 2 cartes, et le retour à l'utilisateur s'effectue grâce à un servomoteur qui pointe le nombre de doigts levés.
 
 ## Fonctionnement
 
