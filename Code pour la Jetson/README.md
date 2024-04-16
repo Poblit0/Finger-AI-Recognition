@@ -2,6 +2,8 @@
 
 ## ATTENTION : les photos sont déjà réaliser par conséquent il est simplement nécessaire de clicker sur 
 
+![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Code%20pour%20la%20Jetson/classification_tool_key1.png)
+
 ## La programmation de la Jetson Nano permet :
 
 - d'entrainer une IA pour reconnaitre le nombre de doigts
