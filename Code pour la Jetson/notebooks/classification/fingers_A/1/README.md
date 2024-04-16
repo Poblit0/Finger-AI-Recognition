@@ -1,1 +1,1 @@
-Photo avec 1 doigt
+Photos avec 1 doigt
