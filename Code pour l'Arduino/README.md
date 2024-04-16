@@ -4,4 +4,4 @@
 - la réception du nombre de doigt visionné par la caméra
 - l'actionnement du servomoteur
 
-## *Le code provient d'un code Open Source qui a été adapté pour ce projet, la crédition est présente au début du programme*
+### *Le code provient d'un code Open Source qui a été adapté pour ce projet, la crédition de l'auteur est présente au début du programme*
