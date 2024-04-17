@@ -12,4 +12,4 @@
 
 ```sudo apt-get install python3-smbus```
 
-### Testez à nouveau le code du Jupyter Notebook, celui-ci devrait alors fonctionner
+### Testez à nouveau le code du Jupyter Notebook, celui-ci devrait alors fonctionner, et le Serial de l'Arduino devrait afficher le chiffre "5"
