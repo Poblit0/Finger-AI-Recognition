@@ -4,10 +4,12 @@
 
 ![](https://github.com/Poblit0/Finger-AI-Recognition/blob/main/Difficult%C3%A9%20rencontr%C3%A9e/erreur.png)
 
-### alors il faut entrer 2 commandes dans le terminal
+### alors il faut entrer 2 commandes dans le terminal :
 
 ```sudo apt-get update```
 
 ### Puis cette commande :
 
 ```sudo apt-get install python3-smbus```
+
+### Testez à nouveau le code du Jupyter Notebook, celui-ci devrait alors fonctionner
