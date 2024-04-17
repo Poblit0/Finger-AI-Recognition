@@ -6,7 +6,8 @@
 
 ### alors il faut entrer 2 commandes dans le terminal
 
-D'abord t'écris cette commande :
 ```sudo apt-get update```
-Puis cette commande :
+
+### Puis cette commande :
+
 ```sudo apt-get install python3-smbus```
