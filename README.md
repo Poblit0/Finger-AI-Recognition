@@ -1,5 +1,9 @@
 # Finger-AI-Recognition
 
+Projet d'informatique Polytech - Promotion ROB3 2023/2024
+
+De DELFLY Agathe et MAUVOISIN Paul
+
 ## Description
 
 Ce projet a pour objectif d'utiliser une intelligence artificielle pour compter le nombre de doigts d'une main.
